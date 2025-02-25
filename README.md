@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">🚀 A Curious Developer Exploring Web, App, Cloud, and AI/ML</h3>
 
-- 👨‍💻 All of my projects are available at [https://ss-developer.vercel.app/](https://ss-developer.vercel.app/)
+
 
 - 📫 How to reach me **shubham.0202.in@gmail.com**
 
